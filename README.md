@@ -2,7 +2,7 @@
 
 ![Organize Skill — organização segura de arquivos com agentes de IA](assets/cover.png)
 
-Uma skill segura para organizar pastas com agentes de IA. Ela inventaria os arquivos, reconhece projetos, propõe movimentações e só executa depois da aprovação do usuário.
+Uma skill segura para organizar pastas com agentes de IA. Ela realiza o inventário dos arquivos, reconhece projetos, propõe movimentações e só executa depois da aprovação do usuário.
 
 > A skill não faz uma faxina cega: primeiro observa, depois propõe e somente então organiza.
 
